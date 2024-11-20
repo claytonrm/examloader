@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ZIB",
+    "codeListCode": "ZIB001",
+    "code": "271636001",
+    "displayValue": "Polsslag regelmatig",
+    "longDescription": "The long description is necessary",
+    "fromDate": "01-01-2019",
+    "toDate": "",
+    "sortingPriority": "1"
+  },
+  {
+    "source": "ZIB",
+    "codeListCode": "ZIB001",
+    "code": "61086009",
+    "displayValue": "Polsslag onregelmatig",
+    "longDescription": "",
+    "fromDate": "01-01-2019",
+    "toDate": "",
+    "sortingPriority": "2"
+  }
+]
